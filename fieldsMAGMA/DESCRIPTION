@@ -22,7 +22,9 @@ Description: fieldsMAGMA is an extension of the fields package, which is freely 
   also supports the use of the freely available and open source MAGMA library for 
   using GPUs in addition to multi-core CPUs.  MAGMA must be installed on your computer 
   and it must be linked along with its prerequesite libraries in your ~/.R/Makevars 
-  file.
+  file. Development
+ of this package was supported in part by the National Science Foundation  Grant
+ 1417857 and the National Center for Atmospheric Research. 
 License: GPL (>= 2)
 OS_type: unix
 NeedsCompilation: yes
